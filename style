@@ -1,0 +1,36 @@
+body {
+    font-size: 17pt;
+    background-color: ghostwhite;
+    margin: 10px;
+    font-family: Impact, Haettenschweiler, 'comic sans-serif', sans-serif ;
+}
+
+.tarjeta{
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  text-align: justify;
+}
+
+.etiqueta{
+  background-color: dodgerblue;
+  color: orangered;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.contenedor{
+  padding: 10px;
+  background-color: whitesmoke;
+  color: darkred;
+}
+
+button{
+  background-color: skyblue ;
+  border: none ;
+  color: black;
+  padding: 15px 20px;
+  text-align: justify;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
